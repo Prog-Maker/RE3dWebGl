@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "311062109621",
+    "firebase_url": "https://riding-extreme-3d-default-rtdb.firebaseio.com",
+    "project_id": "riding-extreme-3d",
+    "storage_bucket": "riding-extreme-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311062109621:ios:991261cd46e168c5b88dfc",
+        "android_client_info": {
+          "package_name": "com.ducky.bikehill3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311062109621-bhs8opd168iq28560r6fc2neqm9outo7.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ2vFoTAx-5Ds5r6wb5DNjMOqyIPiZAe8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
